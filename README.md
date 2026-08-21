@@ -17,4 +17,8 @@ A structured collection of my LeetCode and Data Structures &amp; Algorithms solu
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ajay-x0/leetcode-repo/tree/master/0011-container-with-most-water) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/ajay-x0/leetcode-repo/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
