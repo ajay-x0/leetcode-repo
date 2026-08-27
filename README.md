@@ -26,6 +26,7 @@ A structured collection of my LeetCode and Data Structures &amp; Algorithms solu
 | ------- |
 | [0175-combine-two-tables](https://github.com/ajay-x0/leetcode-repo/tree/master/0175-combine-two-tables) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/ajay-x0/leetcode-repo/tree/master/0181-employees-earning-more-than-their-managers) |
+| [0577-employee-bonus](https://github.com/ajay-x0/leetcode-repo/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/ajay-x0/leetcode-repo/tree/master/0584-find-customer-referee) |
 | [0620-not-boring-movies](https://github.com/ajay-x0/leetcode-repo/tree/master/0620-not-boring-movies) |
 | [1661-average-time-of-process-per-machine](https://github.com/ajay-x0/leetcode-repo/tree/master/1661-average-time-of-process-per-machine) |
