@@ -8,6 +8,7 @@ A structured collection of my LeetCode and Data Structures &amp; Algorithms solu
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ajay-x0/leetcode-repo/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/ajay-x0/leetcode-repo/tree/master/0011-container-with-most-water) |
+| [0268-missing-number](https://github.com/ajay-x0/leetcode-repo/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ajay-x0/leetcode-repo/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/ajay-x0/leetcode-repo/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/ajay-x0/leetcode-repo/tree/master/1004-max-consecutive-ones-iii) |
@@ -39,15 +40,18 @@ A structured collection of my LeetCode and Data Structures &amp; Algorithms solu
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/ajay-x0/leetcode-repo/tree/master/0268-missing-number) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ajay-x0/leetcode-repo/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/ajay-x0/leetcode-repo/tree/master/0268-missing-number) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ajay-x0/leetcode-repo/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ajay-x0/leetcode-repo/tree/master/0004-median-of-two-sorted-arrays) |
+| [0268-missing-number](https://github.com/ajay-x0/leetcode-repo/tree/master/0268-missing-number) |
 | [1004-max-consecutive-ones-iii](https://github.com/ajay-x0/leetcode-repo/tree/master/1004-max-consecutive-ones-iii) |
 | [1095-find-in-mountain-array](https://github.com/ajay-x0/leetcode-repo/tree/master/1095-find-in-mountain-array) |
 ## Divide and Conquer
@@ -82,4 +86,12 @@ A structured collection of my LeetCode and Data Structures &amp; Algorithms solu
 |  |
 | ------- |
 | [1095-find-in-mountain-array](https://github.com/ajay-x0/leetcode-repo/tree/master/1095-find-in-mountain-array) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/ajay-x0/leetcode-repo/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/ajay-x0/leetcode-repo/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
