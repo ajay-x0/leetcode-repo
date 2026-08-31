@@ -1,0 +1,34 @@
+class Solution {
+    public int lengthOfLongestSubstring(String s) {
+
+        // Stores the last index where each character was seen
+        HashMap<Character, Integer> lastSeen = new HashMap<>();
+
+        // Start of our sliding window
+        int left = 0;
+
+        // Longest substring found so far
+        int maxLength = 0;
+
+        // Move right through the string
+        for (int right = 0; right < s.length(); right++) {
+
+            // Current character
+            char ch = s.charAt(right);
+
+            // If character is already inside the current window,
+            // move left past its previous occurrence
+            if (lastSeen.containsKey(ch) && lastSeen.get(ch) >= left) {
+                left = lastSeen.get(ch) + 1;
+            }
+
+            // Store/update the latest position of the character
+            lastSeen.put(ch, right);
+
+            // Calculate current window length and update maximum
+            maxLength = Math.max(maxLength, right - left + 1);
+        }
+
+        return maxLength;
+    }
+}
