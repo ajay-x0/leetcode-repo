@@ -100,4 +100,8 @@ A structured collection of my LeetCode and Data Structures &amp; Algorithms solu
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/ajay-x0/leetcode-repo/tree/master/0268-missing-number) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/ajay-x0/leetcode-repo/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
