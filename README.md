@@ -20,6 +20,7 @@ A structured collection of my LeetCode and Data Structures &amp; Algorithms solu
 | [3875-construct-uniform-parity-array-i](https://github.com/ajay-x0/leetcode-repo/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/ajay-x0/leetcode-repo/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/ajay-x0/leetcode-repo/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/ajay-x0/leetcode-repo/tree/master/3904-smallest-stable-index-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A structured collection of my LeetCode and Data Structures &amp; Algorithms solu
 | [1004-max-consecutive-ones-iii](https://github.com/ajay-x0/leetcode-repo/tree/master/1004-max-consecutive-ones-iii) |
 | [1732-find-the-highest-altitude](https://github.com/ajay-x0/leetcode-repo/tree/master/1732-find-the-highest-altitude) |
 | [3903-smallest-stable-index-i](https://github.com/ajay-x0/leetcode-repo/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/ajay-x0/leetcode-repo/tree/master/3904-smallest-stable-index-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
