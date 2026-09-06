@@ -77,6 +77,7 @@ A structured collection of my LeetCode and Data Structures &amp; Algorithms solu
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ajay-x0/leetcode-repo/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0115-distinct-subsequences](https://github.com/ajay-x0/leetcode-repo/tree/master/0115-distinct-subsequences) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ajay-x0/leetcode-repo/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Prefix Sum
 |  |
@@ -89,6 +90,7 @@ A structured collection of my LeetCode and Data Structures &amp; Algorithms solu
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/ajay-x0/leetcode-repo/tree/master/0115-distinct-subsequences) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ajay-x0/leetcode-repo/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Interactive
 |  |
