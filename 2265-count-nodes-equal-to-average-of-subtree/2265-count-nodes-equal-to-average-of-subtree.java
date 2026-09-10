@@ -15,39 +15,67 @@
  */
 class Solution {
 
+//   Brute Force 
+    // public int averageOfSubtree(TreeNode root) {
+
+    //     if (root == null) {
+    //         return 0;
+    //     }
+
+    //     int count = 0;
+
+    //     if (root.val == getSum(root) / getCount(root)) {
+    //         count++;
+    //     }
+
+    //     count += averageOfSubtree(root.left);
+    //     count += averageOfSubtree(root.right);
+
+    //     return count;
+    // }
+
+    // private int getSum(TreeNode root) {
+
+    //     if (root == null) {
+    //         return 0;
+    //     }
+
+    //     return root.val + getSum(root.left) + getSum(root.right);
+    // }
+
+    // private int getCount(TreeNode root) {
+
+    //     if (root == null) {
+    //         return 0;
+    //     }
+
+    //     return 1 + getCount(root.left) + getCount(root.right);
+    // }
+
+    // Optimal -- Post Order DFS
+    int answer = 0;
+
     public int averageOfSubtree(TreeNode root) {
-
-        if (root == null) {
-            return 0;
-        }
-
-        int count = 0;
-
-        if (root.val == getSum(root) / getCount(root)) {
-            count++;
-        }
-
-        count += averageOfSubtree(root.left);
-        count += averageOfSubtree(root.right);
-
-        return count;
+        dfs(root);
+        return answer;
     }
 
-    private int getSum(TreeNode root) {
+    private int[] dfs(TreeNode root) {
 
         if (root == null) {
-            return 0;
+            return new int[]{0, 0};
         }
 
-        return root.val + getSum(root.left) + getSum(root.right);
-    }
+        int[] left = dfs(root.left);
+        int[] right = dfs(root.right);
 
-    private int getCount(TreeNode root) {
+        int sum = root.val + left[0] + right[0];
+        int count = 1 + left[1] + right[1];
 
-        if (root == null) {
-            return 0;
+        if (root.val == sum / count) {
+            answer++;
         }
 
-        return 1 + getCount(root.left) + getCount(root.right);
+        return new int[]{sum, count};
     }
 }
