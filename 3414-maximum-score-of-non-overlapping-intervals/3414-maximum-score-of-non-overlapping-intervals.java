@@ -1,102 +1,186 @@
 class Solution {
-    int n;
-    int[][] intervals;
-    int[] nextIdx;
 
-    static class Node {
-        long score = -1;
-        List<Integer> idxs = new ArrayList<>();
+    static class State {
+        long weight;
+        int[] indices;
+
+        State(long weight, int[] indices) {
+            this.weight = weight;
+            this.indices = indices;
+        }
     }
 
-    Node[][] t;
+    public int[] maximumWeight(List<List<Integer>> intervals) {
 
-    int findNext(int r) {
-        int lo = 0, hi = n - 1;
-        int result = n;
-        while (lo <= hi) {
-            int mid = lo + (hi - lo) / 2;
-            if (intervals[mid][0] > r) {
-                result = mid;
-                hi = mid - 1;
-            } else {
-                lo = mid + 1;
+        int n = intervals.size();
+
+        int[][] arr = new int[n][4];
+
+        // [start, end, weight, originalIndex]
+        for (int i = 0; i < n; i++) {
+            arr[i][0] = intervals.get(i).get(0);
+            arr[i][1] = intervals.get(i).get(1);
+            arr[i][2] = intervals.get(i).get(2);
+            arr[i][3] = i;
+        }
+
+        // Sort by ending time
+        Arrays.sort(arr, (a, b) -> Integer.compare(a[1], b[1]));
+
+        int[] ends = new int[n];
+
+        for (int i = 0; i < n; i++) {
+            ends[i] = arr[i][1];
+        }
+
+        // previous[i] =
+        // last interval ending before arr[i] starts
+        int[] previous = new int[n];
+
+        for (int i = 0; i < n; i++) {
+            previous[i] = findPrevious(
+                ends,
+                arr[i][0],
+                i
+            );
+        }
+
+        State[][] dp = new State[5][n + 1];
+
+        // Base case
+        for (int i = 0; i <= n; i++) {
+            dp[0][i] = new State(0, new int[0]);
+        }
+
+        for (int k = 1; k <= 4; k++) {
+
+            dp[k][0] = new State(0, new int[0]);
+
+            for (int i = 1; i <= n; i++) {
+
+                // Skip current interval
+                State skip = dp[k][i - 1];
+
+                int[] interval = arr[i - 1];
+
+                int prev = previous[i - 1];
+
+                // Take current interval
+                State base = dp[k - 1][prev + 1];
+
+                int[] newIndices =
+                    insertSorted(
+                        base.indices,
+                        interval[3]
+                    );
+
+                State take = new State(
+                    base.weight + interval[2],
+                    newIndices
+                );
+
+                dp[k][i] = better(skip, take);
             }
         }
+
+        return dp[4][n].indices;
+    }
+
+
+    private int findPrevious(
+        int[] ends,
+        int start,
+        int limit
+    ) {
+
+        int left = 0;
+        int right = limit - 1;
+
+        int answer = -1;
+
+        while (left <= right) {
+
+            int mid =
+                left + (right - left) / 2;
+
+            // Strictly non-overlapping
+            if (ends[mid] < start) {
+
+                answer = mid;
+                left = mid + 1;
+
+            } else {
+
+                right = mid - 1;
+            }
+        }
+
+        return answer;
+    }
+
+
+    private int[] insertSorted(
+        int[] arr,
+        int value
+    ) {
+
+        int[] result =
+            new int[arr.length + 1];
+
+        int i = 0;
+        int j = 0;
+
+        while (
+            i < arr.length &&
+            arr[i] < value
+        ) {
+
+            result[j++] = arr[i++];
+        }
+
+        result[j++] = value;
+
+        while (i < arr.length) {
+            result[j++] = arr[i++];
+        }
+
         return result;
     }
 
-    boolean isLexSmaller(List<Integer> a, List<Integer> b) {
-        int len = Math.min(a.size(), b.size());
+
+    private State better(
+        State a,
+        State b
+    ) {
+
+        if (a.weight > b.weight)
+            return a;
+
+        if (b.weight > a.weight)
+            return b;
+
+        // Same weight:
+        // choose lexicographically smaller indices
+        int len =
+            Math.min(
+                a.indices.length,
+                b.indices.length
+            );
+
         for (int i = 0; i < len; i++) {
-            if (!a.get(i).equals(b.get(i))) {
-                return a.get(i) < b.get(i);
-            }
-        }
-        return a.size() < b.size();
-    }
 
-    public int[] maximumWeight(List<List<Integer>> intervalsList) {
-        n = intervalsList.size();
+            if (a.indices[i]
+                    < b.indices[i])
+                return a;
 
-        intervals = new int[n][4];
-        for (int i = 0; i < n; i++) {
-            intervals[i][0] = intervalsList.get(i).get(0);
-            intervals[i][1] = intervalsList.get(i).get(1);
-            intervals[i][2] = intervalsList.get(i).get(2);
-            intervals[i][3] = i;
+            if (b.indices[i]
+                    < a.indices[i])
+                return b;
         }
 
-        Arrays.sort(intervals, (a, b) -> {
-            if (a[0] != b[0]) return a[0] - b[0];
-            if (a[1] != b[1]) return a[1] - b[1];
-            if (a[2] != b[2]) return a[2] - b[2];
-            return a[3] - b[3];
-        });
-
-        nextIdx = new int[n];
-        for (int i = 0; i < n; i++) {
-            int r = intervals[i][1];
-            nextIdx[i] = findNext(r);
-        }
-
-        final int K = 4;
-        t = new Node[n + 1][K + 1];
-        for (int i = 0; i <= n; i++)
-            for (int k = 0; k <= K; k++)
-                t[i][k] = new Node();
-
-        for (int i = n - 1; i >= 0; i--) {
-            int weight = intervals[i][2];
-            int idx    = intervals[i][3];
-            int j      = nextIdx[i];
-
-            for (int k = 1; k <= K; k++) {
-                Node skip = t[i + 1][k];
-                Node temp = t[j][k - 1];
-
-                Node take = new Node();
-                take.score = temp.score + weight;
-                take.idxs  = new ArrayList<>(temp.idxs);
-                take.idxs.add(idx);
-                Collections.sort(take.idxs);
-
-                Node result;
-                if (skip.score > take.score) {
-                    result = skip;
-                } else if (skip.score < take.score) {
-                    result = take;
-                } else {
-                    result = isLexSmaller(skip.idxs, take.idxs) ? skip : take;
-                }
-
-                t[i][k] = result;
-            }
-        }
-
-        Node res = t[0][K];
-        int[] ans = new int[res.idxs.size()];
-        for (int i = 0; i < ans.length; i++)
-            ans[i] = res.idxs.get(i);
-        return ans;
+        return a.indices.length
+                <= b.indices.length
+                ? a
+                : b;
     }
 }
