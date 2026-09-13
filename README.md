@@ -13,6 +13,7 @@ A structured collection of my LeetCode and Data Structures &amp; Algorithms solu
 | [0283-move-zeroes](https://github.com/ajay-x0/leetcode-repo/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/ajay-x0/leetcode-repo/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/ajay-x0/leetcode-repo/tree/master/0643-maximum-average-subarray-i) |
+| [0835-image-overlap](https://github.com/ajay-x0/leetcode-repo/tree/master/0835-image-overlap) |
 | [1004-max-consecutive-ones-iii](https://github.com/ajay-x0/leetcode-repo/tree/master/1004-max-consecutive-ones-iii) |
 | [1095-find-in-mountain-array](https://github.com/ajay-x0/leetcode-repo/tree/master/1095-find-in-mountain-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ajay-x0/leetcode-repo/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -150,4 +151,8 @@ A structured collection of my LeetCode and Data Structures &amp; Algorithms solu
 | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/ajay-x0/leetcode-repo/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ajay-x0/leetcode-repo/tree/master/3483-unique-3-digit-even-numbers) |
+## Matrix
+|  |
+| ------- |
+| [0835-image-overlap](https://github.com/ajay-x0/leetcode-repo/tree/master/0835-image-overlap) |
 <!---LeetCode Topics End-->
