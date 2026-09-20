@@ -102,6 +102,7 @@ A structured collection of my LeetCode and Data Structures &amp; Algorithms solu
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ajay-x0/leetcode-repo/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ajay-x0/leetcode-repo/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ajay-x0/leetcode-repo/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3498-reverse-degree-of-a-string](https://github.com/ajay-x0/leetcode-repo/tree/master/3498-reverse-degree-of-a-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -182,4 +183,8 @@ A structured collection of my LeetCode and Data Structures &amp; Algorithms solu
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ajay-x0/leetcode-repo/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/ajay-x0/leetcode-repo/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
