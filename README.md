@@ -101,6 +101,7 @@ A structured collection of my LeetCode and Data Structures &amp; Algorithms solu
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ajay-x0/leetcode-repo/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0115-distinct-subsequences](https://github.com/ajay-x0/leetcode-repo/tree/master/0115-distinct-subsequences) |
+| [0940-distinct-subsequences-ii](https://github.com/ajay-x0/leetcode-repo/tree/master/0940-distinct-subsequences-ii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ajay-x0/leetcode-repo/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ajay-x0/leetcode-repo/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ajay-x0/leetcode-repo/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -118,6 +119,7 @@ A structured collection of my LeetCode and Data Structures &amp; Algorithms solu
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/ajay-x0/leetcode-repo/tree/master/0115-distinct-subsequences) |
+| [0940-distinct-subsequences-ii](https://github.com/ajay-x0/leetcode-repo/tree/master/0940-distinct-subsequences-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ajay-x0/leetcode-repo/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ajay-x0/leetcode-repo/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ajay-x0/leetcode-repo/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
