@@ -13,6 +13,7 @@ A structured collection of my LeetCode and Data Structures &amp; Algorithms solu
 | [0283-move-zeroes](https://github.com/ajay-x0/leetcode-repo/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/ajay-x0/leetcode-repo/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/ajay-x0/leetcode-repo/tree/master/0643-maximum-average-subarray-i) |
+| [0724-find-pivot-index](https://github.com/ajay-x0/leetcode-repo/tree/master/0724-find-pivot-index) |
 | [0835-image-overlap](https://github.com/ajay-x0/leetcode-repo/tree/master/0835-image-overlap) |
 | [1004-max-consecutive-ones-iii](https://github.com/ajay-x0/leetcode-repo/tree/master/1004-max-consecutive-ones-iii) |
 | [1095-find-in-mountain-array](https://github.com/ajay-x0/leetcode-repo/tree/master/1095-find-in-mountain-array) |
@@ -116,6 +117,7 @@ A structured collection of my LeetCode and Data Structures &amp; Algorithms solu
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/ajay-x0/leetcode-repo/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/ajay-x0/leetcode-repo/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/ajay-x0/leetcode-repo/tree/master/1004-max-consecutive-ones-iii) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ajay-x0/leetcode-repo/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ajay-x0/leetcode-repo/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
