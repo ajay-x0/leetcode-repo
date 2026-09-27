@@ -116,6 +116,7 @@ A structured collection of my LeetCode and Data Structures &amp; Algorithms solu
 | [0115-distinct-subsequences](https://github.com/ajay-x0/leetcode-repo/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/ajay-x0/leetcode-repo/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/ajay-x0/leetcode-repo/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ajay-x0/leetcode-repo/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ajay-x0/leetcode-repo/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ajay-x0/leetcode-repo/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ajay-x0/leetcode-repo/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -224,8 +225,13 @@ A structured collection of my LeetCode and Data Structures &amp; Algorithms solu
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/ajay-x0/leetcode-repo/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ajay-x0/leetcode-repo/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/ajay-x0/leetcode-repo/tree/master/1096-brace-expansion-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ajay-x0/leetcode-repo/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
