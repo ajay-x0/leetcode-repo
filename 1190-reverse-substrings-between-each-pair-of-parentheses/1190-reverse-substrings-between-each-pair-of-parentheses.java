@@ -1,3 +1,6 @@
+//Brute force
+
+
 // class Solution {
 //     public String reverseParentheses(String s) {
 //         Stack<Integer> openBracket = new Stack<>();
@@ -24,6 +27,9 @@
 //         }
 //     }
 // }
+
+
+//Linear Approach
 
 class Solution {
     public String reverseParentheses(String s) {
