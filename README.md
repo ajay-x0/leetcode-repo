@@ -17,6 +17,7 @@ A structured collection of my LeetCode and Data Structures &amp; Algorithms solu
 | [0835-image-overlap](https://github.com/ajay-x0/leetcode-repo/tree/master/0835-image-overlap) |
 | [1004-max-consecutive-ones-iii](https://github.com/ajay-x0/leetcode-repo/tree/master/1004-max-consecutive-ones-iii) |
 | [1095-find-in-mountain-array](https://github.com/ajay-x0/leetcode-repo/tree/master/1095-find-in-mountain-array) |
+| [1207-unique-number-of-occurrences](https://github.com/ajay-x0/leetcode-repo/tree/master/1207-unique-number-of-occurrences) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ajay-x0/leetcode-repo/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ajay-x0/leetcode-repo/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ajay-x0/leetcode-repo/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -67,6 +68,7 @@ A structured collection of my LeetCode and Data Structures &amp; Algorithms solu
 | [0268-missing-number](https://github.com/ajay-x0/leetcode-repo/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/ajay-x0/leetcode-repo/tree/master/0560-subarray-sum-equals-k) |
 | [1096-brace-expansion-ii](https://github.com/ajay-x0/leetcode-repo/tree/master/1096-brace-expansion-ii) |
+| [1207-unique-number-of-occurrences](https://github.com/ajay-x0/leetcode-repo/tree/master/1207-unique-number-of-occurrences) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ajay-x0/leetcode-repo/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ajay-x0/leetcode-repo/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ajay-x0/leetcode-repo/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
