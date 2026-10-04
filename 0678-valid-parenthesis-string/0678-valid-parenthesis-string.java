@@ -16,10 +16,12 @@ class Solution {
             }
 
             // If maxOpen drops below 0, we have too many ')'
-            if (maxOpen < 0) return false;
+            if (maxOpen < 0) 
+                return false;
 
             // minOpen cannot be negative since we can't have negative open brackets
-            if (minOpen < 0) minOpen = 0;
+            if (minOpen < 0) 
+                minOpen = 0;
         }
 
         // String is valid if 0 open brackets is a valid possibility
