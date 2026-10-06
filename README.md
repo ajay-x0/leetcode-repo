@@ -48,6 +48,7 @@ A structured collection of my LeetCode and Data Structures &amp; Algorithms solu
 | ------- |
 | [0011-container-with-most-water](https://github.com/ajay-x0/leetcode-repo/tree/master/0011-container-with-most-water) |
 | [0678-valid-parenthesis-string](https://github.com/ajay-x0/leetcode-repo/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/ajay-x0/leetcode-repo/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ajay-x0/leetcode-repo/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ajay-x0/leetcode-repo/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Database
@@ -123,6 +124,7 @@ A structured collection of my LeetCode and Data Structures &amp; Algorithms solu
 | [0115-distinct-subsequences](https://github.com/ajay-x0/leetcode-repo/tree/master/0115-distinct-subsequences) |
 | [0678-valid-parenthesis-string](https://github.com/ajay-x0/leetcode-repo/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/ajay-x0/leetcode-repo/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/ajay-x0/leetcode-repo/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/ajay-x0/leetcode-repo/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/ajay-x0/leetcode-repo/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ajay-x0/leetcode-repo/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -245,6 +247,7 @@ A structured collection of my LeetCode and Data Structures &amp; Algorithms solu
 | [0032-longest-valid-parentheses](https://github.com/ajay-x0/leetcode-repo/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/ajay-x0/leetcode-repo/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/ajay-x0/leetcode-repo/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/ajay-x0/leetcode-repo/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1096-brace-expansion-ii](https://github.com/ajay-x0/leetcode-repo/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ajay-x0/leetcode-repo/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ajay-x0/leetcode-repo/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -261,6 +264,7 @@ A structured collection of my LeetCode and Data Structures &amp; Algorithms solu
 | [0032-longest-valid-parentheses](https://github.com/ajay-x0/leetcode-repo/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/ajay-x0/leetcode-repo/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/ajay-x0/leetcode-repo/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/ajay-x0/leetcode-repo/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ajay-x0/leetcode-repo/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ajay-x0/leetcode-repo/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ajay-x0/leetcode-repo/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
