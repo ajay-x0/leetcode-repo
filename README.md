@@ -27,6 +27,7 @@ A structured collection of my LeetCode and Data Structures &amp; Algorithms solu
 | [2094-finding-3-digit-even-numbers](https://github.com/ajay-x0/leetcode-repo/tree/master/2094-finding-3-digit-even-numbers) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/ajay-x0/leetcode-repo/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ajay-x0/leetcode-repo/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/ajay-x0/leetcode-repo/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ajay-x0/leetcode-repo/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ajay-x0/leetcode-repo/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/ajay-x0/leetcode-repo/tree/master/3524-find-x-value-of-array-i) |
@@ -51,6 +52,7 @@ A structured collection of my LeetCode and Data Structures &amp; Algorithms solu
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ajay-x0/leetcode-repo/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ajay-x0/leetcode-repo/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ajay-x0/leetcode-repo/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/ajay-x0/leetcode-repo/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ajay-x0/leetcode-repo/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Database
 |  |
@@ -90,6 +92,7 @@ A structured collection of my LeetCode and Data Structures &amp; Algorithms solu
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ajay-x0/leetcode-repo/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ajay-x0/leetcode-repo/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2094-finding-3-digit-even-numbers](https://github.com/ajay-x0/leetcode-repo/tree/master/2094-finding-3-digit-even-numbers) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/ajay-x0/leetcode-repo/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ajay-x0/leetcode-repo/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Binary Search
 |  |
@@ -100,6 +103,7 @@ A structured collection of my LeetCode and Data Structures &amp; Algorithms solu
 | [1095-find-in-mountain-array](https://github.com/ajay-x0/leetcode-repo/tree/master/1095-find-in-mountain-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ajay-x0/leetcode-repo/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ajay-x0/leetcode-repo/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/ajay-x0/leetcode-repo/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ajay-x0/leetcode-repo/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Divide and Conquer
 |  |
@@ -279,4 +283,8 @@ A structured collection of my LeetCode and Data Structures &amp; Algorithms solu
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ajay-x0/leetcode-repo/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ajay-x0/leetcode-repo/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ajay-x0/leetcode-repo/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/ajay-x0/leetcode-repo/tree/master/2333-minimum-sum-of-squared-difference) |
 <!---LeetCode Topics End-->
