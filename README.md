@@ -28,6 +28,7 @@ A structured collection of my LeetCode and Data Structures &amp; Algorithms solu
 | [2215-find-the-difference-of-two-arrays](https://github.com/ajay-x0/leetcode-repo/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ajay-x0/leetcode-repo/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ajay-x0/leetcode-repo/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/ajay-x0/leetcode-repo/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ajay-x0/leetcode-repo/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ajay-x0/leetcode-repo/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/ajay-x0/leetcode-repo/tree/master/3524-find-x-value-of-array-i) |
@@ -220,6 +221,7 @@ A structured collection of my LeetCode and Data Structures &amp; Algorithms solu
 |  |
 | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/ajay-x0/leetcode-repo/tree/master/2094-finding-3-digit-even-numbers) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/ajay-x0/leetcode-repo/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ajay-x0/leetcode-repo/tree/master/3483-unique-3-digit-even-numbers) |
 ## Matrix
 |  |
