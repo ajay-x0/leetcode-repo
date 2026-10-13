@@ -35,6 +35,7 @@ A structured collection of my LeetCode and Data Structures &amp; Algorithms solu
 | [3524-find-x-value-of-array-i](https://github.com/ajay-x0/leetcode-repo/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/ajay-x0/leetcode-repo/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ajay-x0/leetcode-repo/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/ajay-x0/leetcode-repo/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ajay-x0/leetcode-repo/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/ajay-x0/leetcode-repo/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/ajay-x0/leetcode-repo/tree/master/3903-smallest-stable-index-i) |
@@ -57,6 +58,7 @@ A structured collection of my LeetCode and Data Structures &amp; Algorithms solu
 | [2333-minimum-sum-of-squared-difference](https://github.com/ajay-x0/leetcode-repo/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ajay-x0/leetcode-repo/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ajay-x0/leetcode-repo/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/ajay-x0/leetcode-repo/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Database
 |  |
 | ------- |
@@ -98,6 +100,7 @@ A structured collection of my LeetCode and Data Structures &amp; Algorithms solu
 | [2094-finding-3-digit-even-numbers](https://github.com/ajay-x0/leetcode-repo/tree/master/2094-finding-3-digit-even-numbers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ajay-x0/leetcode-repo/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ajay-x0/leetcode-repo/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/ajay-x0/leetcode-repo/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Binary Search
 |  |
 | ------- |
