@@ -44,6 +44,7 @@ A structured collection of my LeetCode and Data Structures &amp; Algorithms solu
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ajay-x0/leetcode-repo/tree/master/0011-container-with-most-water) |
+| [0125-valid-palindrome](https://github.com/ajay-x0/leetcode-repo/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/ajay-x0/leetcode-repo/tree/master/0283-move-zeroes) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ajay-x0/leetcode-repo/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ajay-x0/leetcode-repo/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -135,6 +136,7 @@ A structured collection of my LeetCode and Data Structures &amp; Algorithms solu
 | [0022-generate-parentheses](https://github.com/ajay-x0/leetcode-repo/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ajay-x0/leetcode-repo/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/ajay-x0/leetcode-repo/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/ajay-x0/leetcode-repo/tree/master/0125-valid-palindrome) |
 | [0301-remove-invalid-parentheses](https://github.com/ajay-x0/leetcode-repo/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/ajay-x0/leetcode-repo/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/ajay-x0/leetcode-repo/tree/master/0856-score-of-parentheses) |
