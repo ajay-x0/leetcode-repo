@@ -31,6 +31,7 @@ A structured collection of my LeetCode and Data Structures &amp; Algorithms solu
 | [2778-sum-of-squares-of-special-elements](https://github.com/ajay-x0/leetcode-repo/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ajay-x0/leetcode-repo/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ajay-x0/leetcode-repo/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ajay-x0/leetcode-repo/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ajay-x0/leetcode-repo/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ajay-x0/leetcode-repo/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/ajay-x0/leetcode-repo/tree/master/3524-find-x-value-of-array-i) |
@@ -92,6 +93,7 @@ A structured collection of my LeetCode and Data Structures &amp; Algorithms solu
 | [2215-find-the-difference-of-two-arrays](https://github.com/ajay-x0/leetcode-repo/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ajay-x0/leetcode-repo/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ajay-x0/leetcode-repo/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ajay-x0/leetcode-repo/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ajay-x0/leetcode-repo/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sorting
 |  |
@@ -258,6 +260,7 @@ A structured collection of my LeetCode and Data Structures &amp; Algorithms solu
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ajay-x0/leetcode-repo/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ajay-x0/leetcode-repo/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3525-find-x-value-of-array-ii](https://github.com/ajay-x0/leetcode-repo/tree/master/3525-find-x-value-of-array-ii) |
 ## Backtracking
 |  |
@@ -307,4 +310,5 @@ A structured collection of my LeetCode and Data Structures &amp; Algorithms solu
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ajay-x0/leetcode-repo/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ajay-x0/leetcode-repo/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 <!---LeetCode Topics End-->
