@@ -87,6 +87,7 @@ A structured collection of my LeetCode and Data Structures &amp; Algorithms solu
 | [1207-unique-number-of-occurrences](https://github.com/ajay-x0/leetcode-repo/tree/master/1207-unique-number-of-occurrences) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ajay-x0/leetcode-repo/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ajay-x0/leetcode-repo/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1657-determine-if-two-strings-are-close](https://github.com/ajay-x0/leetcode-repo/tree/master/1657-determine-if-two-strings-are-close) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ajay-x0/leetcode-repo/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ajay-x0/leetcode-repo/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ajay-x0/leetcode-repo/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -104,6 +105,7 @@ A structured collection of my LeetCode and Data Structures &amp; Algorithms solu
 | [0268-missing-number](https://github.com/ajay-x0/leetcode-repo/tree/master/0268-missing-number) |
 | [1096-brace-expansion-ii](https://github.com/ajay-x0/leetcode-repo/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ajay-x0/leetcode-repo/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1657-determine-if-two-strings-are-close](https://github.com/ajay-x0/leetcode-repo/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ajay-x0/leetcode-repo/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2094-finding-3-digit-even-numbers](https://github.com/ajay-x0/leetcode-repo/tree/master/2094-finding-3-digit-even-numbers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ajay-x0/leetcode-repo/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -157,6 +159,7 @@ A structured collection of my LeetCode and Data Structures &amp; Algorithms solu
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ajay-x0/leetcode-repo/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ajay-x0/leetcode-repo/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ajay-x0/leetcode-repo/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1657-determine-if-two-strings-are-close](https://github.com/ajay-x0/leetcode-repo/tree/master/1657-determine-if-two-strings-are-close) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ajay-x0/leetcode-repo/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ajay-x0/leetcode-repo/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/ajay-x0/leetcode-repo/tree/master/3498-reverse-degree-of-a-string) |
@@ -314,4 +317,8 @@ A structured collection of my LeetCode and Data Structures &amp; Algorithms solu
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ajay-x0/leetcode-repo/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ajay-x0/leetcode-repo/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Counting
+|  |
+| ------- |
+| [1657-determine-if-two-strings-are-close](https://github.com/ajay-x0/leetcode-repo/tree/master/1657-determine-if-two-strings-are-close) |
 <!---LeetCode Topics End-->
