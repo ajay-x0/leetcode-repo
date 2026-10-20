@@ -43,6 +43,7 @@ A structured collection of my LeetCode and Data Structures &amp; Algorithms solu
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ajay-x0/leetcode-repo/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ajay-x0/leetcode-repo/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/ajay-x0/leetcode-repo/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/ajay-x0/leetcode-repo/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/ajay-x0/leetcode-repo/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/ajay-x0/leetcode-repo/tree/master/3904-smallest-stable-index-ii) |
 ## Two Pointers
@@ -115,6 +116,7 @@ A structured collection of my LeetCode and Data Structures &amp; Algorithms solu
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ajay-x0/leetcode-repo/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ajay-x0/leetcode-repo/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ajay-x0/leetcode-repo/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3886-sum-of-sortable-integers](https://github.com/ajay-x0/leetcode-repo/tree/master/3886-sum-of-sortable-integers) |
 ## Binary Search
 |  |
 | ------- |
@@ -219,6 +221,7 @@ A structured collection of my LeetCode and Data Structures &amp; Algorithms solu
 | [3871-count-commas-in-range-ii](https://github.com/ajay-x0/leetcode-repo/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ajay-x0/leetcode-repo/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/ajay-x0/leetcode-repo/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/ajay-x0/leetcode-repo/tree/master/3886-sum-of-sortable-integers) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -253,6 +256,7 @@ A structured collection of my LeetCode and Data Structures &amp; Algorithms solu
 | [2094-finding-3-digit-even-numbers](https://github.com/ajay-x0/leetcode-repo/tree/master/2094-finding-3-digit-even-numbers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ajay-x0/leetcode-repo/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ajay-x0/leetcode-repo/tree/master/3483-unique-3-digit-even-numbers) |
+| [3886-sum-of-sortable-integers](https://github.com/ajay-x0/leetcode-repo/tree/master/3886-sum-of-sortable-integers) |
 ## Matrix
 |  |
 | ------- |
