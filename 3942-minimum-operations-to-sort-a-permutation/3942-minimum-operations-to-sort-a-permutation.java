@@ -25,7 +25,12 @@ class Solution {
             result = Math.min(result, n - zero);
         }
 
-        return result == Integer.MAX_VALUE ? -1 : result;
+        
+        if (result == Integer.MAX_VALUE) {
+            return -1;
+        }
+
+        return result;
     }
 
     private boolean checkRotation(int[] nums, int zero, int step) {
