@@ -21,6 +21,7 @@ A structured collection of my LeetCode and Data Structures &amp; Algorithms solu
 | [1095-find-in-mountain-array](https://github.com/ajay-x0/leetcode-repo/tree/master/1095-find-in-mountain-array) |
 | [1207-unique-number-of-occurrences](https://github.com/ajay-x0/leetcode-repo/tree/master/1207-unique-number-of-occurrences) |
 | [1254-number-of-closed-islands](https://github.com/ajay-x0/leetcode-repo/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/ajay-x0/leetcode-repo/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ajay-x0/leetcode-repo/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ajay-x0/leetcode-repo/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ajay-x0/leetcode-repo/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -276,6 +277,7 @@ A structured collection of my LeetCode and Data Structures &amp; Algorithms solu
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/ajay-x0/leetcode-repo/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/ajay-x0/leetcode-repo/tree/master/1267-count-servers-that-communicate) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ajay-x0/leetcode-repo/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ajay-x0/leetcode-repo/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/ajay-x0/leetcode-repo/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -301,6 +303,7 @@ A structured collection of my LeetCode and Data Structures &amp; Algorithms solu
 | ------- |
 | [0835-image-overlap](https://github.com/ajay-x0/leetcode-repo/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/ajay-x0/leetcode-repo/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/ajay-x0/leetcode-repo/tree/master/1267-count-servers-that-communicate) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ajay-x0/leetcode-repo/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ajay-x0/leetcode-repo/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/ajay-x0/leetcode-repo/tree/master/3665-twisted-mirror-path-count) |
@@ -352,6 +355,7 @@ A structured collection of my LeetCode and Data Structures &amp; Algorithms solu
 | [0301-remove-invalid-parentheses](https://github.com/ajay-x0/leetcode-repo/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/ajay-x0/leetcode-repo/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/ajay-x0/leetcode-repo/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/ajay-x0/leetcode-repo/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ajay-x0/leetcode-repo/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Bracket Sequences
 |  |
@@ -384,11 +388,13 @@ A structured collection of my LeetCode and Data Structures &amp; Algorithms solu
 ## Counting
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/ajay-x0/leetcode-repo/tree/master/1267-count-servers-that-communicate) |
 | [1657-determine-if-two-strings-are-close](https://github.com/ajay-x0/leetcode-repo/tree/master/1657-determine-if-two-strings-are-close) |
 ## Union-Find
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/ajay-x0/leetcode-repo/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/ajay-x0/leetcode-repo/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ajay-x0/leetcode-repo/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ajay-x0/leetcode-repo/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Search Tree
