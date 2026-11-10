@@ -51,6 +51,7 @@ A structured collection of my LeetCode and Data Structures &amp; Algorithms solu
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ajay-x0/leetcode-repo/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/ajay-x0/leetcode-repo/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3665-twisted-mirror-path-count](https://github.com/ajay-x0/leetcode-repo/tree/master/3665-twisted-mirror-path-count) |
+| [3693-climbing-stairs-ii](https://github.com/ajay-x0/leetcode-repo/tree/master/3693-climbing-stairs-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ajay-x0/leetcode-repo/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ajay-x0/leetcode-repo/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/ajay-x0/leetcode-repo/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -225,6 +226,7 @@ A structured collection of my LeetCode and Data Structures &amp; Algorithms solu
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ajay-x0/leetcode-repo/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/ajay-x0/leetcode-repo/tree/master/3524-find-x-value-of-array-i) |
 | [3665-twisted-mirror-path-count](https://github.com/ajay-x0/leetcode-repo/tree/master/3665-twisted-mirror-path-count) |
+| [3693-climbing-stairs-ii](https://github.com/ajay-x0/leetcode-repo/tree/master/3693-climbing-stairs-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/ajay-x0/leetcode-repo/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Interactive
 |  |
