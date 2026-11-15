@@ -25,6 +25,7 @@ A structured collection of my LeetCode and Data Structures &amp; Algorithms solu
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ajay-x0/leetcode-repo/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ajay-x0/leetcode-repo/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ajay-x0/leetcode-repo/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ajay-x0/leetcode-repo/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ajay-x0/leetcode-repo/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/ajay-x0/leetcode-repo/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ajay-x0/leetcode-repo/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -209,6 +210,7 @@ A structured collection of my LeetCode and Data Structures &amp; Algorithms solu
 | [0560-subarray-sum-equals-k](https://github.com/ajay-x0/leetcode-repo/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/ajay-x0/leetcode-repo/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/ajay-x0/leetcode-repo/tree/master/1004-max-consecutive-ones-iii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ajay-x0/leetcode-repo/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ajay-x0/leetcode-repo/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ajay-x0/leetcode-repo/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/ajay-x0/leetcode-repo/tree/master/1732-find-the-highest-altitude) |
@@ -225,6 +227,7 @@ A structured collection of my LeetCode and Data Structures &amp; Algorithms solu
 | [0940-distinct-subsequences-ii](https://github.com/ajay-x0/leetcode-repo/tree/master/0940-distinct-subsequences-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ajay-x0/leetcode-repo/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ajay-x0/leetcode-repo/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ajay-x0/leetcode-repo/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ajay-x0/leetcode-repo/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ajay-x0/leetcode-repo/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ajay-x0/leetcode-repo/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -251,6 +254,7 @@ A structured collection of my LeetCode and Data Structures &amp; Algorithms solu
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ajay-x0/leetcode-repo/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0836-rectangle-overlap](https://github.com/ajay-x0/leetcode-repo/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/ajay-x0/leetcode-repo/tree/master/1401-circle-and-rectangle-overlapping) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ajay-x0/leetcode-repo/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ajay-x0/leetcode-repo/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ajay-x0/leetcode-repo/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2409-count-days-spent-together](https://github.com/ajay-x0/leetcode-repo/tree/master/2409-count-days-spent-together) |
