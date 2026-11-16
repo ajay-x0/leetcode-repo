@@ -14,7 +14,6 @@ class Solution {
                 sum += s.charAt(i) - '0';
                 count++;
 
-                // When we have collected k digits
                 if (count == k) {
                     sb.append(sum);
                     sum = 0;
@@ -22,7 +21,6 @@ class Solution {
                 }
             }
 
-            // Handle remaining digits
             if (count > 0) {
                 sb.append(sum);
             }
