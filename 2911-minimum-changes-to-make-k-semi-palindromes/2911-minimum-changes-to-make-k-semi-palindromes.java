@@ -6,15 +6,18 @@ class Solution {
         int[][] cost = new int[n][n];
 
 
-        for (int len = 2; len <= n; len++) {
+        for (int len = 2; len <= n; len++) 
+        {
 
-            for (int i = 0; i + len <= n; i++) {
+            for (int i = 0; i + len <= n; i++) 
+            {
 
                 int j = i + len - 1;
 
                 int minChanges = Integer.MAX_VALUE;
 
-                for (int d = 1; d < len; d++) {
+                for (int d = 1; d < len; d++) 
+                {
 
                     if (len % d != 0) {
                         continue;
@@ -23,9 +26,11 @@ class Solution {
                     int changes = 0;
                     int count = len / d;
 
-                    for (int r = 0; r < d; r++) {
+                    for (int r = 0; r < d; r++) 
+                    {
 
-                        for (int p = 0; p < count / 2; p++) {
+                        for (int p = 0; p < count / 2; p++) 
+                        {
 
                             int left = i + r + p * d;
 
@@ -48,17 +53,21 @@ class Solution {
 
         int[][] dp = new int[k + 1][n + 1];
 
-        for (int[] row : dp) {
+        for (int[] row : dp) 
+        {
             Arrays.fill(row, INF);
         }
 
         dp[0][0] = 0;
 
-        for (int parts = 1; parts <= k; parts++) {
+        for (int parts = 1; parts <= k; parts++) 
+        {
 
-            for (int i = 2 * parts; i <= n; i++) {
+            for (int i = 2 * parts; i <= n; i++) 
+            {
 
-                for (int j = 2 * (parts - 1); j <= i - 2; j++) {
+                for (int j = 2 * (parts - 1); j <= i - 2; j++) 
+                {
 
                     if (dp[parts - 1][j] == INF) {
                         continue;
