@@ -48,6 +48,7 @@ A structured collection of my LeetCode and Data Structures &amp; Algorithms solu
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ajay-x0/leetcode-repo/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/ajay-x0/leetcode-repo/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/ajay-x0/leetcode-repo/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ajay-x0/leetcode-repo/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ajay-x0/leetcode-repo/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/ajay-x0/leetcode-repo/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ajay-x0/leetcode-repo/tree/master/3483-unique-3-digit-even-numbers) |
@@ -181,6 +182,7 @@ A structured collection of my LeetCode and Data Structures &amp; Algorithms solu
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ajay-x0/leetcode-repo/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ajay-x0/leetcode-repo/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3364-minimum-positive-sum-subarray](https://github.com/ajay-x0/leetcode-repo/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ajay-x0/leetcode-repo/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/ajay-x0/leetcode-repo/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ajay-x0/leetcode-repo/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## String
@@ -276,6 +278,7 @@ A structured collection of my LeetCode and Data Structures &amp; Algorithms solu
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ajay-x0/leetcode-repo/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ajay-x0/leetcode-repo/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2409-count-days-spent-together](https://github.com/ajay-x0/leetcode-repo/tree/master/2409-count-days-spent-together) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ajay-x0/leetcode-repo/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ajay-x0/leetcode-repo/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/ajay-x0/leetcode-repo/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/ajay-x0/leetcode-repo/tree/master/3525-find-x-value-of-array-ii) |
@@ -331,6 +334,7 @@ A structured collection of my LeetCode and Data Structures &amp; Algorithms solu
 | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/ajay-x0/leetcode-repo/tree/master/2094-finding-3-digit-even-numbers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ajay-x0/leetcode-repo/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ajay-x0/leetcode-repo/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ajay-x0/leetcode-repo/tree/master/3483-unique-3-digit-even-numbers) |
 | [3886-sum-of-sortable-integers](https://github.com/ajay-x0/leetcode-repo/tree/master/3886-sum-of-sortable-integers) |
 ## Matrix
@@ -481,4 +485,8 @@ A structured collection of my LeetCode and Data Structures &amp; Algorithms solu
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/ajay-x0/leetcode-repo/tree/master/1352-product-of-the-last-k-numbers) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ajay-x0/leetcode-repo/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
