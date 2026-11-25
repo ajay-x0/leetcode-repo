@@ -70,6 +70,7 @@ A structured collection of my LeetCode and Data Structures &amp; Algorithms solu
 | [3886-sum-of-sortable-integers](https://github.com/ajay-x0/leetcode-repo/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/ajay-x0/leetcode-repo/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/ajay-x0/leetcode-repo/tree/master/3904-smallest-stable-index-ii) |
+| [3934-smallest-unique-subarray](https://github.com/ajay-x0/leetcode-repo/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/ajay-x0/leetcode-repo/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Two Pointers
 |  |
@@ -132,6 +133,7 @@ A structured collection of my LeetCode and Data Structures &amp; Algorithms solu
 | [3483-unique-3-digit-even-numbers](https://github.com/ajay-x0/leetcode-repo/tree/master/3483-unique-3-digit-even-numbers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ajay-x0/leetcode-repo/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ajay-x0/leetcode-repo/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3934-smallest-unique-subarray](https://github.com/ajay-x0/leetcode-repo/tree/master/3934-smallest-unique-subarray) |
 ## Sorting
 |  |
 | ------- |
@@ -165,6 +167,7 @@ A structured collection of my LeetCode and Data Structures &amp; Algorithms solu
 | [2089-find-target-indices-after-sorting-array](https://github.com/ajay-x0/leetcode-repo/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ajay-x0/leetcode-repo/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ajay-x0/leetcode-repo/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3934-smallest-unique-subarray](https://github.com/ajay-x0/leetcode-repo/tree/master/3934-smallest-unique-subarray) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -489,4 +492,16 @@ A structured collection of my LeetCode and Data Structures &amp; Algorithms solu
 |  |
 | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/ajay-x0/leetcode-repo/tree/master/3411-maximum-subarray-with-equal-products) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/ajay-x0/leetcode-repo/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/ajay-x0/leetcode-repo/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/ajay-x0/leetcode-repo/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
