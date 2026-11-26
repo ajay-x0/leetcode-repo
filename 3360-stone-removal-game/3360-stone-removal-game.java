@@ -3,14 +3,14 @@ class Solution {
     public boolean canAliceWin(int n) {
 
         int stones = 10;
-        boolean aliceTurn = true;
+        int turns=0;
 
         while (n >= stones && stones >0) {
             n -= stones;
             stones--;
-            aliceTurn = !aliceTurn;
+            turns++;
         }
 
-        return !aliceTurn;
+        return turns%2 ==1;
     }
 }
